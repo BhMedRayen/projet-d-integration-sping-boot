@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cfd0e95-f935-4c82-b88a-4edf80098737" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/company_service/src/main/java/com/example/company_service/CompanyController/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company_service/src/main/java/com/example/company_service/CompanyServices/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company_service/src/main/java/com/example/company_service/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company_service/src/main/java/com/example/company_service/entity/CompanyProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company_service/src/main/java/com/example/company_service/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer_service/src/main/java/com/example/freelancer_service/entity/Freelancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer_service/src/main/java/com/example/freelancer_service/entity/FreelancerProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer_service/src/main/java/com/example/freelancer_service/freelancerController/FreelancerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer_service/src/main/java/com/example/freelancer_service/freelancerServices/FreelancerServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freelancer_service/src/main/java/com/example/freelancer_service/repository/FreelancerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offre_service/src/main/java/com/example/offre_service/OfferControllers/OffreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offre_service/src/main/java/com/example/offre_service/OffreRepository/OffreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offre_service/src/main/java/com/example/offre_service/OffreServices/OffreServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offre_service/src/main/java/com/example/offre_service/entity/Offre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offre_service/src/main/java/com/example/offre_service/entity/OffreProjection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node/hirehub(nodejs backend)" beforeDir="false" afterPath="$PROJECT_DIR$/../Node/hirehub(nodejs backend)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Company__service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Company__service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Company__service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Company__service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Discovey-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Discovey-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/Controller/FreelancerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/Controller/FreelancerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/Services/FreelancerServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/Services/FreelancerServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/entity/Freelancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/freelancer_service/src/main/java/com/example/freelancer_service/entity/Freelancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/src/main/java/com/example/gate_way/GateWayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/gate_way/src/test/java/com/example/gate_way/GateWayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Services/MessageServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/Services/MessageServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/message_service/src/main/java/com/example/message_service/entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/message_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/message_service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2YHDVgumOwsZdGvqwspNREg1LOt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/DSI/DSI32/Projet d'integration/Spring v2/company_service"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cfd0e95-f935-4c82-b88a-4edf80098737" name="Changes" comment="" />
+      <created>1700173636802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700173636802</updated>
+    </task>
+    <servers />
+  </component>
+</project>

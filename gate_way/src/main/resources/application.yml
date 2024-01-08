@@ -1,0 +1,35 @@
+
+server:
+  port: 8888
+
+spring:
+  cloud:
+      gateway:
+        routes :
+          - id : r1
+            uri : http://localhost:8081/
+            predicates:
+              - Path= /companies/**
+          - id: r2
+            uri: http://localhost:8082/
+            predicates:
+              - Path= /freelancers/**
+          - id: r3
+            uri: http://localhost:8083/
+            predicates:
+              - Path= /offers/**
+          - id: r4
+            uri: http://localhost:8084/
+            predicates:
+              - Path= /messages/**
+          - id : r5
+            uri : http://localhost:5000/
+            predicates:
+              - Path= /*/**
+      discovery:
+        enabled : true
+  application:
+    name: "gate_way_service"
+    Access-Control-Allow-Origin: http://localhost:4200
+
+
